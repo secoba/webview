@@ -23,7 +23,7 @@ If you are interested in writing Webview apps in C/C++, [skip to the next sectio
 Install Webview library with `go get`:
 
 ```
-$ go get github.com/webview/webview
+$ go get github.com/secoba/webview
 ```
 
 Import the package and start using it:
@@ -31,7 +31,7 @@ Import the package and start using it:
 ```go
 package main
 
-import "github.com/webview/webview"
+import "github.com/secoba/webview"
 
 func main() {
 	debug := true

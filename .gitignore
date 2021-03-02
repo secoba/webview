@@ -1,4 +1,5 @@
 # Build atrifacts
 /build
+.idea/
 webview
 webview_test
